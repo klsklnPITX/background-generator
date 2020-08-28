@@ -1,12 +1,16 @@
 body{
-
+    background-image: linear-gradient(to right, red, black);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     text-transform: uppercase;
     font-size: 3rem;
+    text-align: center;
 }
 
 h3{
     text-transform: uppercase;
     font-size: 2rem;
+    text-align: center;
 }
